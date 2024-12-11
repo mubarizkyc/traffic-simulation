@@ -1,0 +1,2 @@
+// there will be one analysis page where u can see vehicles ,heavy,emergency on each side as well as the ones having challan
+// challan 5000 for regualr ,7000 for heavy and maintain issue time zone
